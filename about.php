@@ -15,7 +15,7 @@
       <li><a href="http://localhost/market/COURS1.php">Sign in</a></li>
      </ul>
     
- <form class="search-form">
+ <  فئة  النموذج   = "بحث"
      
      <input type="text" placeholder="search">
      <button>search</button>
